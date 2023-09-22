@@ -1,16 +1,16 @@
 const keySongs = [
     {
-        key: 7,
+        key: 1,
         song: 'pom',
         down: false
     },
     {
-        key: 8,
+        key: 2,
         song: 'clap',
         down: false
     },
     {
-        key: 9,
+        key: 3,
         song: 'tim',
         down: false
     },
@@ -30,17 +30,17 @@ const keySongs = [
         down: false
     },
     {
-        key: 1,
+        key: 7,
         song: 'psh',
         down: false
     },
     {
-        key: 2,
+        key: 8,
         song: 'tic',
         down: false
     },
     {
-        key: 3,
+        key: 9,
         song: 'tom',
         down: false
     }
