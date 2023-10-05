@@ -21,7 +21,7 @@ const keySongs = [
     },
     {
         key: 5,
-        song: 'splash',
+        song: 'bbb',
         down: false
     },
     {
