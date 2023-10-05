@@ -1,7 +1,7 @@
 const keySongs = [
     {
         key: 7,
-        song: 'pom',
+        song: 'ppp',
         down: false
     },
     {
@@ -11,7 +11,7 @@ const keySongs = [
     },
     {
         key: 9,
-        song: 'ha',
+        song: 'tim',
         down: false
     },
     {
