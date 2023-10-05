@@ -6,7 +6,7 @@ const keySongs = [
     },
     {
         key: 8,
-        song: 'clap',
+        song: 'mmm',
         down: false
     },
     {
