@@ -16,12 +16,12 @@ const keySongs = [
     },
     {
         key: 4,
-        song: 'puff',
+        song: 'bbb',
         down: false
     },
     {
         key: 5,
-        song: 'bbb',
+        song: 'boto',
         down: false
     },
     {
