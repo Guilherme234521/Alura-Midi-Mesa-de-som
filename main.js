@@ -1,4 +1,4 @@
-alert("olá, professora. Espero que goste do site.")
+alert("olá, professora. Espero que goste do site.");
 
 const keySongs = [
     {
