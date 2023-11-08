@@ -1,3 +1,5 @@
+alert("olá, professora. Espero que goste do site.")
+
 const keySongs = [
     {
         key: 1,
