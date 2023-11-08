@@ -6,9 +6,12 @@
   --luz: rgb(25 42 243 / 80%);
 }
 
-body {
+
+body { 
   align-items: center;
-  background: linear-gradient(45deg, #dfdb43 0%,#27662c 100%);
+  background-image: url(https://storage.googleapis.com/novo-blog-wordpress/2022/07/1392e3b3-capa_blog_dia-da-amazonia.jpg);
+  background-size: 1400px 1000px;
+  background-repeat: no-repeat;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -17,23 +20,23 @@ body {
 }
 
 h1 {
-  color: var(--branca);
-  margin-bottom: 20px;
-  font-size: 2rem;
+  color:  #fff;
+  margin-bottom: 50px;
+  font-size: 3rem;
 }
 
 .teclado {
-  background: linear-gradient(to bottom, #eeeeee 0%,#cccccc 100%);
-  box-shadow: 6px 8px 0 6px #666, 10px 10px 10px #000;
-  border-radius: 30px;
+  background: linear-gradient(to bottom, #778e2d 0%,#9fa127 100%);
+  box-shadow: 6px 8px 0 6px #125479, 20px 20px 5px #000;
+  border-radius: 20px;
   display: grid;
-  gap: 10px;
+  gap: 20px;
   grid-template-columns: repeat(3, 1fr);
-  padding: 10px;
+  padding: 20px;
 }
 
 .tecla {
-  background-color: var(--branca);
+  background-color: #ffffff;
   border-radius: 30px;
   box-shadow: 3px 3px 0 var(--cinza);
   color: var(--vermelha);
